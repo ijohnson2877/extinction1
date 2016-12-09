@@ -57,6 +57,10 @@ header div h1 {
  
  }
 
+ .br {
+ 	
+ }
+
  .sec1 .pic1 {
  	float: left;
  	width: 27%;
@@ -77,4 +81,34 @@ header div h1 {
  	border: solid 10px #4E6891;
  	font-family: 'aaarghnormal', serif;
  	text-align: center;
+ }
+.sec2 .text3 {
+	background-color: white;
+ 	float: left;
+ 	width: 27%;
+ 	margin-top: 1%;
+ 	margin-left: 5%;
+ 	border: solid 10px #4E6891;
+ 	font-family: 'cinzelregular', sans-serif;
+ 	text-align: center;
+ 	padding: 1%;
+}
+.sec2 .pic2 img {
+ 	border: solid 3px #4E6891;
+ 	margin-left: 3%;
+}
+.sec2 .text4 {
+	padding: 1%;
+ 	background-color: white;
+ 	float: right;
+ 	width: 27%;
+ 	margin-top: 1%;
+ 	margin: 5%;
+ 	border: solid 10px #4E6891;
+ 	font-family: 'cinzelregular', serif;
+ 	text-align: center;
+}
+ .footer {
+ 	color: #fff;
+ 	padding: 4%;
  }
